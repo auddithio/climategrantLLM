@@ -15,8 +15,6 @@ from eval_metrics import Metrics
 
 
 
-
-
 def set_seed(seed_val):
     random.seed(seed_val)
     np.random.seed(seed_val)
@@ -26,13 +24,16 @@ def load_data(data_path):
     rfas = pd.read_csv(data_path + 'processed_nih_grants_only.csv')
     pubs = pickle.load(open(data_path +'processed_pubs.pickle', 'rb'))
     mix_df = pd.read_csv(data_path+'pairs_mixed.csv')
+
     train_idx = pickle.load(open(data_path +'train_idx.ls', 'rb'))
     valid_idx = pickle.load(open(data_path +'valdi_idx.ls', 'rb'))
     test_idx = pickle.load(open(data_path +'test_idx.ls', 'rb'))
+
     #citation data
     train_citation = pickle.load(open(data_path + 'train_citation_data.dict', 'rb'))
     valid_citation = pickle.load(open(data_path + 'valid_citation_data.dict', 'rb'))
     citation = pickle.load(open(data_path + 'citation_data.dict', 'rb'))
+    
     #final mix citation data
     train_mixed = pickle.load(open(data_path + 'train_mix_citation_data.dict', 'rb'))
     valid_mixed = pickle.load(open(data_path + 'valid_mix_citation_data.dict', 'rb'))
