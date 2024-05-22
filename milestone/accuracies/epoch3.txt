@@ -1,0 +1,216 @@
+Class: FY  Notice of Funding Opportunity: Bipartisan Infrastructure Law (BIL) Airport Terminal Program (ATP) Grants
+Accuracy: 14/25 (0.5600)
+
+Class: FY  Competitive Funding Opportunity: Airport Improvement Program Discretionary Grants
+Accuracy: 163/163 (1.0000)
+
+Class: Grants for Buses and Bus Facilities Program
+Accuracy: 26/28 (0.9286)
+
+Class: Solicitation of Project Proposals for the Low or No Emission (Low-No) Program
+Accuracy: 0/6 (0.0000)
+
+Class: FY  Competitive Funding Opportunity: Passenger Ferry Grant Program
+Accuracy: 5/5 (1.0000)
+
+Class: Pilot Program for Transit-Oriented Development (TOD) Planning
+Accuracy: 5/5 (1.0000)
+
+Class: Public Transportation on Indian Reservations Program
+Accuracy: 0/6 (0.0000)
+
+Class: INFRA Grants
+Accuracy: 18/28 (0.6429)
+
+Class:  Tribal Transportation Program Safety Fund
+Accuracy: 26/26 (1.0000)
+
+Class: Low or No Emission Program (Low-No Program)
+Accuracy: 13/14 (0.9286)
+
+Class: Passenger Ferry Grant Program
+Accuracy: 0/2 (0.0000)
+
+Class: FY  Competitive Funding Opportunity: Public Transportation on Indian Reservations Program
+Accuracy: 0/4 (0.0000)
+
+Class: *INFRA Grants
+Accuracy: 0/3 (0.0000)
+
+Class: Fiscal Year  Competitive Funding Opportunity; Grants for Buses and Bus Facilities Program
+Accuracy: 3/10 (0.3000)
+
+Class:  Competitive Funding Opportunity: Pilot Program for Transit-Oriented Development (TOD) Planning
+Accuracy: 0/3 (0.0000)
+
+Class: FY  Competitive Funding Opportunity:  Public Transportation on Indian Reservations Program; Tribal Transit Program
+Accuracy: 6/6 (1.0000)
+
+Class: FY Tribal Transportation Program Safety Fund (TTPSF)
+Accuracy: 3/9 (0.3333)
+
+Class: Advanced Transportation Technologies and  Innovative Mobility Deployment (ATTIMD) Program
+Accuracy: 0/1 (0.0000)
+
+Class: FY  and FY  Competitive Funding Opportunity: Competitive Grants for Rail Vehicle Replacement Program (Rail Program)
+Accuracy: 0/1 (0.0000)
+
+Class: Bridge Investment Program - Planning, Bridge Projects, and Large Bridge Projects
+Accuracy: 5/6 (0.8333)
+
+Class: FY  Competitive Funding Opportunity; Low or No Emission Grant Program
+Accuracy: 15/15 (1.0000)
+
+Class: FY  Competitive Funding Opportunity: All Stations Accessibility Program
+Accuracy: 2/2 (1.0000)
+
+Class: FY  Competitive Funding Opportunity: Buses and Bus Facilities Competitive Program
+Accuracy: 0/7 (0.0000)
+
+Class: FY  Competitive Funding Opportunity: Electric or Low-Emitting Ferry Pilot Program
+Accuracy: 2/2 (1.0000)
+
+Class: FY  Pilot Program for Transit-Oriented Development (TOD) Planning
+Accuracy: 3/3 (1.0000)
+
+Class: FY  Competitive Funding Opportunity: Public Transportation on Indian Reservations Program; Tribal Transit Program
+Accuracy: 0/4 (0.0000)
+
+Class: FY Consolidated Rail Infrastructure and Safety Improvements Grant Program
+Accuracy: 11/11 (1.0000)
+
+Class: FY Corridor Identification and Development Grant Program
+Accuracy: 10/10 (1.0000)
+
+Class: FY Federal-State Partnership for Intercity Passenger Rail Grant Program for projects not located on the Northeast Corridor
+Accuracy: 0/1 (0.0000)
+
+Class: Fiscal Year  National Culvert Removal, Replacement, and Restoration Grant Program (Culvert AOP Program)
+Accuracy: 9/9 (1.0000)
+
+Class: FY  National Infrastructure Investments
+Accuracy: 40/49 (0.8163)
+
+Class: FY  Natural Gas Distribution Infrastructure Safety and Modernization Grant
+Accuracy: 6/6 (1.0000)
+
+Class: The Infrastructure Investment and Jobs Act (IIJA) Notice of Funding Opportunity for America&#;s Marine Highway Program
+Accuracy: 0/2 (0.0000)
+
+Class: *FY  Notice of Funding Opportunity: Bipartisan Infrastructure Law (BIL) Airport Terminal Program (ATP) Grants
+Accuracy: 28/28 (1.0000)
+
+Class: Mega Grants
+Accuracy: 0/3 (0.0000)
+
+Class: Rural Surface Transportation Grant Program
+Accuracy: 0/2 (0.0000)
+
+Class: *FY  Notice of Funding Opportunity: Bipartisan Infrastructure Law (BIL) FAA Contract Tower (FCT) Competitive Grant Program
+Accuracy: 8/8 (1.0000)
+
+Class: FY Railroad Crossing Elimination Grant Program
+Accuracy: 9/9 (1.0000)
+
+Class: Reconnecting Communities Pilot Discretionary Grant Program
+Accuracy: 4/7 (0.5714)
+
+Class: Safe Streets and Roads for All Discretionary Grant Program
+Accuracy: 3/6 (0.5000)
+
+Class: Strengthening Mobility and Revolutionizing Transportation (SMART) Grants Program
+Accuracy: 8/9 (0.8889)
+
+Class: FY- Federal-State Partnership for Intercity Passenger Rail Grant Program for projects located on the Northeast Corridor
+Accuracy: 4/4 (1.0000)
+
+Class: Fiscal Years - Wildlife Crossings Pilot Program (WCPP)
+Accuracy: 3/3 (1.0000)
+
+Class: FY  Competitive Funding Opportunity; Buses and Bus Facilities Program
+Accuracy: 7/7 (1.0000)
+
+Class: FY  Competitive Funding Opportunity; Low or No Emission Vehicle Program
+Accuracy: 0/12 (0.0000)
+
+Class: FY  Competitive Funding Opportunity: Areas of Persistent Poverty Program
+Accuracy: 7/7 (1.0000)
+
+Class: FY  Competitive Funding Opportunity: Ferry Service for Rural Communities Program
+Accuracy: 0/1 (0.0000)
+
+Class: Neighborhood Access and Equity (NAE) Program
+Accuracy: 21/21 (1.0000)
+
+Class: FY  Notice of Funding Opportunity for Small Shipyard Grants
+Accuracy: 4/4 (1.0000)
+
+Class: Safe Streets and Roads for All Funding Opportunity
+Accuracy: 58/58 (1.0000)
+
+Class: SMART Grants Notice of Funding
+Accuracy: 0/5 (0.0000)
+
+Class: United States Marine Highway Grants
+Accuracy: 0/1 (0.0000)
+
+Class: Rural Surface Transportation Grant Progam
+Accuracy: 0/5 (0.0000)
+
+Class: FY  Competitive Funding Opportunity: Rail Vehicle Replacement Grant Program (RAIL)
+Accuracy: 0/1 (0.0000)
+
+{'FY  Notice of Funding Opportunity: Bipartisan Infrastructure Law (BIL) Airport Terminal Program (ATP) Grants': 0.56,
+ 'FY  Competitive Funding Opportunity: Airport Improvement Program Discretionary Grants': 1.0,
+ 'Grants for Buses and Bus Facilities Program': 0.9285714285714286,
+ 'Solicitation of Project Proposals for the Low or No Emission (Low-No) Program': 0.0,
+ 'FY  Competitive Funding Opportunity: Passenger Ferry Grant Program': 1.0,
+ 'Pilot Program for Transit-Oriented Development (TOD) Planning': 1.0,
+ 'Public Transportation on Indian Reservations Program': 0.0,
+ 'INFRA Grants': 0.6428571428571429,
+ ' Tribal Transportation Program Safety Fund': 1.0,
+ 'Low or No Emission Program (Low-No Program)': 0.9285714285714286,
+ 'Passenger Ferry Grant Program': 0.0,
+ 'FY  Competitive Funding Opportunity: Public Transportation on Indian Reservations Program': 0.0,
+ '*INFRA Grants': 0.0,
+ 'Fiscal Year  Competitive Funding Opportunity; Grants for Buses and Bus Facilities Program': 0.3,
+ ' Competitive Funding Opportunity: Pilot Program for Transit-Oriented Development (TOD) Planning': 0.0,
+ 'FY  Competitive Funding Opportunity:  Public Transportation on Indian Reservations Program; Tribal Transit Program': 1.0,
+ 'FY Tribal Transportation Program Safety Fund (TTPSF)': 0.3333333333333333,
+ 'Advanced Transportation Technologies and  Innovative Mobility Deployment (ATTIMD) Program': 0.0,
+ 'FY  and FY  Competitive Funding Opportunity: Competitive Grants for Rail Vehicle Replacement Program (Rail Program)': 0.0,
+ 'Bridge Investment Program - Planning, Bridge Projects, and Large Bridge Projects': 0.8333333333333334,
+ 'FY  Competitive Funding Opportunity; Low or No Emission Grant Program': 1.0,
+ 'FY  Competitive Funding Opportunity: All Stations Accessibility Program': 1.0,
+ 'FY  Competitive Funding Opportunity: Buses and Bus Facilities Competitive Program': 0.0,
+ 'FY  Competitive Funding Opportunity: Electric or Low-Emitting Ferry Pilot Program': 1.0,
+ 'FY  Pilot Program for Transit-Oriented Development (TOD) Planning': 1.0,
+ 'FY  Competitive Funding Opportunity: Public Transportation on Indian Reservations Program; Tribal Transit Program': 0.0,
+ 'FY Consolidated Rail Infrastructure and Safety Improvements Grant Program': 1.0,
+ 'FY Corridor Identification and Development Grant Program': 1.0,
+ 'FY Federal-State Partnership for Intercity Passenger Rail Grant Program for projects not located on the Northeast Corridor': 0.0,
+ 'Fiscal Year  National Culvert Removal, Replacement, and Restoration Grant Program (Culvert AOP Program)': 1.0,
+ 'FY  National Infrastructure Investments': 0.8163265306122449,
+ 'FY  Natural Gas Distribution Infrastructure Safety and Modernization Grant': 1.0,
+ 'The Infrastructure Investment and Jobs Act (IIJA) Notice of Funding Opportunity for America&#;s Marine Highway Program': 0.0,
+ '*FY  Notice of Funding Opportunity: Bipartisan Infrastructure Law (BIL) Airport Terminal Program (ATP) Grants': 1.0,
+ 'Mega Grants': 0.0,
+ 'Rural Surface Transportation Grant Program': 0.0,
+ '*FY  Notice of Funding Opportunity: Bipartisan Infrastructure Law (BIL) FAA Contract Tower (FCT) Competitive Grant Program': 1.0,
+ 'FY Railroad Crossing Elimination Grant Program': 1.0,
+ 'Reconnecting Communities Pilot Discretionary Grant Program': 0.5714285714285714,
+ 'Safe Streets and Roads for All Discretionary Grant Program': 0.5,
+ 'Strengthening Mobility and Revolutionizing Transportation (SMART) Grants Program': 0.8888888888888888,
+ 'FY- Federal-State Partnership for Intercity Passenger Rail Grant Program for projects located on the Northeast Corridor': 1.0,
+ 'Fiscal Years - Wildlife Crossings Pilot Program (WCPP)': 1.0,
+ 'FY  Competitive Funding Opportunity; Buses and Bus Facilities Program': 1.0,
+ 'FY  Competitive Funding Opportunity; Low or No Emission Vehicle Program': 0.0,
+ 'FY  Competitive Funding Opportunity: Areas of Persistent Poverty Program': 1.0,
+ 'FY  Competitive Funding Opportunity: Ferry Service for Rural Communities Program': 0.0,
+ 'Neighborhood Access and Equity (NAE) Program': 1.0,
+ 'FY  Notice of Funding Opportunity for Small Shipyard Grants': 1.0,
+ 'Safe Streets and Roads for All Funding Opportunity': 1.0,
+ 'SMART Grants Notice of Funding': 0.0,
+ 'United States Marine Highway Grants': 0.0,
+ 'Rural Surface Transportation Grant Progam': 0.0,
+ 'FY  Competitive Funding Opportunity: Rail Vehicle Replacement Grant Program (RAIL)': 0.0}
