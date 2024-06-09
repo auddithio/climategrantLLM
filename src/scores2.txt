@@ -1,0 +1,31 @@
+NEW Results
+
+Epoch 1
+Training loss: 2.3098087324771845
+Validation loss: 1.4743896122939057
+F1 Score (Weighted): 0.6063206751832861
+Recall@5: 0.9019316493313522
+
+Epoch 2
+Training loss: 1.255568378100818
+Validation loss: 1.045277183175915
+F1 Score (Weighted): 0.6863383068126755
+Recall@5: 0.962852897473997
+
+Epoch 3
+Training loss: 0.9249951249639922
+Validation loss: 0.8600434106629756
+F1 Score (Weighted): 0.7261731861827846
+Recall@5: 0.9717682020802377
+
+Epoch 4
+Training loss: 0.762079257326989
+Validation loss: 0.7947616682439629
+F1 Score (Weighted): 0.7344331106199063
+Recall@5: 0.9791976225854383
+
+Epoch 5
+Training loss: 0.6835919609982125
+Validation loss: 0.7440567450929019
+F1 Score (Weighted): 0.7496632218792628
+Recall@5: 0.9836552748885586
